@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Excludes 
+*.xlsx
+notes.txt
+CDM
